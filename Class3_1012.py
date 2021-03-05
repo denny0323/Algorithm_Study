@@ -1,7 +1,7 @@
 '''
 > Problem
-@백준 Class3 1012번
-@URL https://www.acmicpc.net/problem/1012
+@ 백준 Class3 1012번
+@ URL https://www.acmicpc.net/problem/1012
 '''
 #### DFS ####
 
