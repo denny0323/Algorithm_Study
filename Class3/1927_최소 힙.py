@@ -1,6 +1,7 @@
 '''
 > Problem
 @ 백준 Class3 1927번
+@ 최소 힙
 @ URL https://www.acmicpc.net/problem/1927
 '''
 import sys, heapq 
