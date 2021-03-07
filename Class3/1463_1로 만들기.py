@@ -2,6 +2,7 @@
 '''
 > Problem
 @ 백준 Class3 1463번
+@ 1로 만들기
 @ URL https://www.acmicpc.net/problem/1463
 '''
 
