@@ -1,7 +1,8 @@
 '''
 > Problem
-@백준 Class3 1074번
-@URL https://www.acmicpc.net/problem/1074
+@ 백준 Class3 1074번
+@ Z
+@ URL https://www.acmicpc.net/problem/1074
 '''
 
 
