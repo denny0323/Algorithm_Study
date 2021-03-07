@@ -1,6 +1,7 @@
 '''
 > Problem
 @ 백준 Class3 1620번
+@ 나는야 포켓몬 마스터 이다솜
 @ URL https://www.acmicpc.net/problem/1620
 '''
 
