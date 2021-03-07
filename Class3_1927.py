@@ -1,22 +1,23 @@
 '''
 > Problem
-@ 백준 Class3 1764번
-@ URL https://www.acmicpc.net/problem/1764
+@ 백준 Class3 1927번
+@ URL https://www.acmicpc.net/problem/1927
 '''
+import sys, heapq 
 
-import sys
+N = int(sys.stdin.readline())
 
-N, M = map(int, sys.stdin.readline().split())
-
-nolistened = [sys.stdin.readline().strip() for _ in range(N)]
-noseen = [sys.stdin.readline().strip() for _ in range(M)]
-
-intersection = set(nolistened) & set(noseen)
-
-print(len(intersection))
-for i in sorted(intersection):
-    print(i)
-    
+heap = []
+for i in range(N):
+    x = int(sys.stdin.readline())
+    if x > 0:
+        heapq.heappush(heap, x)
+    else:
+        if len(heap) == 0 :
+            print(0)
+        else:
+            curr_min = heapq.heappop(heap)
+            print(curr_min)
 '''
 > result
 @ Memory : 34700 KB
