@@ -1,7 +1,8 @@
 '''
 > Problem
-@백준 Class3 1697번
-@URL https://www.acmicpc.net/problem/1697
+@ 백준 Class3 1697번
+@ 숨바꼭질
+@ URL https://www.acmicpc.net/problem/1697
 '''
 import sys
 from collections import deque
