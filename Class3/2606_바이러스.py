@@ -58,7 +58,6 @@ def dfs(graph):
                 q.append(child)
                 count += 1
                 virus_exist[child] = 1
-        print(q)
     print(count)
 dfs(graph)
     
