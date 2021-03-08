@@ -65,5 +65,5 @@ dfs(graph)
 > result 
 @ Memory : 31736 KB
 @ Time : 92 ms
-@ Code length : 909 B
+@ Code length : 892 B
 '''
