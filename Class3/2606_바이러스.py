@@ -1,7 +1,7 @@
 '''
 > Problem
 @ 백준 Class3 2606번
-@ 바이러스바이러스
+@ 바이러스
 @ URL https://www.acmicpc.net/problem/2606
 '''
 
