@@ -48,3 +48,32 @@ for i in range(M):
 @ Time : 5556 ms
 @ Code length : 762 B
 '''
+
+
+##### 연산시간 적은 version ####        
+
+import sys
+I=sys.stdin.readline
+S=[0]*21
+
+for _ in range(int(I())):
+    *z,=I().split();f=z[0]  ## 이 부분 
+    
+    if f=='all':S=[1]*21
+    elif f=='empty':S=[0]*21
+    else:x=int(z[1])
+    if f=='add':S[x]=1
+    if f=='remove':S[x]=0
+    if f=='check':print(S[x])
+    if f=='toggle':
+        if S[x]:S[x]=0
+        else:S[x]=1       
+            
+'''
+> result 
+@ Memory : 29028 KB
+@ Time : 4276 ms
+@ Code length : 310 B
+'''
+
+    
