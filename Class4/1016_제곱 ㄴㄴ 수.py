@@ -1,37 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-'''
-> Problem
-@ 백준 Class4 1016번
-@ 제곱 ㄴㄴ 수
-@ URL https://www.acmicpc.net/problem/1016
-'''
-
-
-# In[54]:
-
-
-# input_file = open('./input/1016.txt', 'r')
-# input = input_file.readline
-
-
-# In[ ]:
-
-
-# import sys
-# from collections import deque
-# input = sys.stdin.readline
-
-
 # * 에라토스테네스의 체 (소수 판별 알고리즘)  
 #     : 1이상의 자연수의 배수를 다 지워가며 판별함 (자기 자신은 제외)
-
-# In[22]:
-
 
 import math
 
@@ -49,17 +17,10 @@ for i in range(min, max+1):
     idx += 1
 print(sum(checker))
 
-
-# In[ ]:
-
-
 '''
 > result : 시간초과
 '''
-
-
-# In[30]:
-
+######################################################################
 
 import math
 
@@ -78,10 +39,6 @@ for sq_num in squres:
         cur += sq_num
 
 print(sum(checker))
-
-
-# In[ ]:
-
 
 '''
 > result 
