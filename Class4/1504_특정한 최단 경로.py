@@ -37,7 +37,7 @@ def dijkstra(start, graph):
     heapq.heappush(heap, (start, 0))
     
     while heap:
-        curr_node, curr_dist = heap.pop()
+        curr_node, curr_dist = heapq.heappop(heap)
         
         if curr_dist > dist[curr_node]: # 시간단축
             continue
@@ -68,8 +68,8 @@ print(d if d != float('inf') else -1)
 
 '''
 > result 
-@ Memory : 62568 KB
-@ Time : 4500 ms
-@ Code length : 1142 B
+@ Memory : 63060 KB
+@ Time : 1020 ms
+@ Code length : 1149 B
 '''
 
