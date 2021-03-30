@@ -12,9 +12,7 @@ def InfixToPostfix(Infix):
     res = ''  # list로하니 메모리 초과
     order = {'*':2, '/':2, '+':1, '-':1, '(':0}
 
-    for i in range(len(Infix)):
-        curr = Infix[i]
-    
+    for curr in Infix:   
         if curr.isalpha() :
             res += curr
         
@@ -34,12 +32,12 @@ def InfixToPostfix(Infix):
     while stack:
         res += stack.pop()
     return res
-
+   
 print(InfixToPostfix(Infix))
 
 '''
 > result 
 @ Memory : 28776 KB
-@ Time : 72 ms
-@ Code length : 738 B
+@ Time : 68 ms
+@ Code length : 704 B
 '''
