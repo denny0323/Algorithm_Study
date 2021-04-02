@@ -75,6 +75,7 @@ print(postorder())
 
 
 ### 재귀 이용
+### source: https://suri78.tistory.com/134
 import sys 
 sys.setrecursionlimit(10**6) 
 
@@ -110,7 +111,6 @@ print()
 inorder('A') 
 print() 
 postorder('A')
-#출처: https://suri78.tistory.com/134 [공부노트]
 
 '''
 > result 
