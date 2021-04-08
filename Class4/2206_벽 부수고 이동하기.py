@@ -43,8 +43,15 @@ dist = [[[0, 0] for _ in range(M)] for _ in range(N)]
 bfs()
     
 '''
-> result 
+-----------------------
+> result (Python3)
 @ Memory : 172,112 KB
 @ Time : 5584 ms
-@ Code length : 1339 B (주석포함 1320 B)
+@ Code length : 1339 B
+-----------------------
+> result (Pypy3)
+@ Memory : 224,832 KB
+@ Time : 1416 ms
+@ Code length : 1339 B
+-----------------------
 '''
