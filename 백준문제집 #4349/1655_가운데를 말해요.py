@@ -1,7 +1,7 @@
 '''
 > Problem
 @ 백준 문제집 <단기간 성장> 1655번
-@ 평범한 배낭
+@ 가운데를 말해요
 @ URL https://www.acmicpc.net/problem/1655
 '''
 # Sol 1. 
