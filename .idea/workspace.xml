@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6708a81-2947-4af6-a8f6-25a47311d51b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Class3/1003_피보나치 함수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class3/1012_유기농 배추.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class3/1074_Z.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class3/11399_ATM.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class3/11723_집합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class3/11724_연결 요소의 개수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class3/11726_2xn 타일링.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class3/1260_DFS와 BFS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class3/1389_케빈 베이컨의 6단계 법칙.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class3/1463_1로 만들기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class3/1620_나는야 포켓몬 마스터 이다솜.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class3/1697_숨바꼭질.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class3/1764_듣보잡.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class3/18870_좌표 압축.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class3/1927_최소 힙.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class3/1931_회의실 배정.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class3/2606_바이러스.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class3/2630_색종이 만들기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class3/7576_토마토.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class3/7662_이중 우선순위 큐.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class4/1016_제곱 ㄴㄴ 수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class4/1043_거짓말.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class4/1149_RGB거리.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class4/1167_트리의 지름.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class4/1238_파티.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class4/1504_특정한 최단 경로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class4/1629_곱셈.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class4/1753_최단경로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class4/1786_찾기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class4/1865_웜홀.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class4/1916_최소비용 구하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class4/1918_후위 표기식.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class4/1967_트리의 지름.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class4/1991_트리 순회.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class4/2096_내려가기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class4/2206_벽 부수고 이동하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class4/2263_트리의 순회.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class4/2407_조합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class4/2683_치즈.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class4/5639_이진 검색 트리.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class4/9251_LCS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP_1904_01타일.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP_1932_정수 삼각형.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP_9184_신나는 함수 실행.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP_9461_파도반 수열.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/그래프이론_12851_숨바꼭질2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/그리디_1202_보석 도둑.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/그리디_1700_멀티탭 스케줄링.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준문제집 #4349/12865_평범한 배낭.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준문제집 #4349/1655_가운데를 말해요.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준문제집 #4349/3197_백조의 호수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/재귀_10870_피보나치5.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/재귀_10872_팩토리얼.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/재귀_2447_별 찍기10.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/재귀_2448_별 찍기11.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/정렬_10825_국영수.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/힙_11279_최대 힙.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/힙_11286_절댓값 힙.ipynb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2btbwSjn3SNMlpJHVVML0jkfdko" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.14725_개미굴.executor": "Run",
+    "Python.3_불량사용자 (1).executor": "Run",
+    "Python.3_인사고과.executor": "Run",
+    "Python.불량사용자.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.3_인사고과">
+    <configuration name="14725_개미굴" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_Study" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준문제집 #4349" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준문제집 #4349/14725_개미굴.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3_불량사용자 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_Study" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/3_불량사용자.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3_불량사용자" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_Study" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\SooM\Documents\GitHub\Algorithm_Study\Programmers\3_불량사용자.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3_인사고과" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_Study" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/3_인사고과.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.3_인사고과" />
+        <item itemvalue="Python.3_불량사용자 (1)" />
+        <item itemvalue="Python.3_불량사용자" />
+        <item itemvalue="Python.14725_개미굴" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6708a81-2947-4af6-a8f6-25a47311d51b" name="Changes" comment="" />
+      <created>1707037560714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707037560714</updated>
+    </task>
+    <servers />
+  </component>
+</project>
