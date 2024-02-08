@@ -4,65 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6708a81-2947-4af6-a8f6-25a47311d51b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Class3/1003_피보나치 함수.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class3/1012_유기농 배추.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class3/1074_Z.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class3/11399_ATM.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class3/11723_집합.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class3/11724_연결 요소의 개수.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class3/11726_2xn 타일링.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class3/1260_DFS와 BFS.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class3/1389_케빈 베이컨의 6단계 법칙.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class3/1463_1로 만들기.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class3/1620_나는야 포켓몬 마스터 이다솜.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class3/1697_숨바꼭질.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class3/1764_듣보잡.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class3/18870_좌표 압축.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class3/1927_최소 힙.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class3/1931_회의실 배정.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class3/2606_바이러스.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class3/2630_색종이 만들기.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class3/7576_토마토.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class3/7662_이중 우선순위 큐.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class4/1016_제곱 ㄴㄴ 수.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class4/1043_거짓말.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class4/1149_RGB거리.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class4/1167_트리의 지름.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class4/1238_파티.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class4/1504_특정한 최단 경로.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class4/1629_곱셈.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class4/1753_최단경로.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class4/1786_찾기.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class4/1865_웜홀.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class4/1916_최소비용 구하기.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class4/1918_후위 표기식.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class4/1967_트리의 지름.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class4/1991_트리 순회.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class4/2096_내려가기.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class4/2206_벽 부수고 이동하기.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class4/2263_트리의 순회.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class4/2407_조합.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class4/2683_치즈.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class4/5639_이진 검색 트리.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class4/9251_LCS.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DP_1904_01타일.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DP_1932_정수 삼각형.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DP_9184_신나는 함수 실행.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DP_9461_파도반 수열.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/그래프이론_12851_숨바꼭질2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/그리디_1202_보석 도둑.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/그리디_1700_멀티탭 스케줄링.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준문제집 #4349/12865_평범한 배낭.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준문제집 #4349/1655_가운데를 말해요.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준문제집 #4349/3197_백조의 호수.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/재귀_10870_피보나치5.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/재귀_10872_팩토리얼.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/재귀_2447_별 찍기10.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/재귀_2448_별 찍기11.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/정렬_10825_국영수.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/힙_11279_최대 힙.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/힙_11286_절댓값 힙.ipynb" beforeDir="false" />
+    <list default="true" id="c6708a81-2947-4af6-a8f6-25a47311d51b" name="Changes" comment="init. commit">
+      <change afterPath="$PROJECT_DIR$/Programmers/2_n^2 배열자르기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/2_괄호 회전하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/2_귤 고르기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/2_연속 부분 수열 합의 개수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/2_의상.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/2_행렬의 곱셈.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/퍼즐 조각 채우기.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/3_퍼즐 조각 채우기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,13 +42,18 @@
     "Python.14725_개미굴.executor": "Run",
     "Python.3_불량사용자 (1).executor": "Run",
     "Python.3_인사고과.executor": "Run",
+    "Python.n^2 배열자르기.executor": "Run",
+    "Python.괄호 회전하기.executor": "Run",
+    "Python.귤 고르기.executor": "Run",
     "Python.불량사용자.executor": "Run",
+    "Python.연속 부분 수열 합의 개수.executor": "Run",
+    "Python.행렬의 곱셈.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.3_인사고과">
-    <configuration name="14725_개미굴" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.2_행렬의 곱셈">
+    <configuration name="귤 고르기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_Study" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,11 +62,99 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준문제집 #4349" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준문제집 #4349/14725_개미굴.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/귤 고르기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2_괄호 회전하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_Study" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\SooM\Documents\GitHub\Algorithm_Study\Programmers\2_괄호 회전하기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2_행렬의 곱셈" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_Study" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\SooM\Documents\GitHub\Algorithm_Study\Programmers\2_행렬의 곱셈.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2_연속 부분 수열 합의 개수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_Study" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\SooM\Documents\GitHub\Algorithm_Study\Programmers\2_연속 부분 수열 합의 개수.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2_n^2 배열자르기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_Study" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\SooM\Documents\GitHub\Algorithm_Study\Programmers\2_n^2 배열자르기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,28 +177,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/3_불량사용자.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="3_불량사용자" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm_Study" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\SooM\Documents\GitHub\Algorithm_Study\Programmers\3_불량사용자.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,10 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3_인사고과" />
+        <item itemvalue="Python.2_행렬의 곱셈" />
+        <item itemvalue="Python.2_n^2 배열자르기" />
+        <item itemvalue="Python.2_괄호 회전하기" />
+        <item itemvalue="Python.2_연속 부분 수열 합의 개수" />
         <item itemvalue="Python.3_불량사용자 (1)" />
-        <item itemvalue="Python.3_불량사용자" />
-        <item itemvalue="Python.14725_개미굴" />
       </list>
     </recent_temporary>
   </component>
@@ -211,6 +233,19 @@
       <option name="presentableId" value="Default" />
       <updated>1707037560714</updated>
     </task>
+    <task id="LOCAL-00001" summary="init. commit">
+      <option name="closed" value="true" />
+      <created>1707114905995</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707114905995</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init. commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init. commit" />
   </component>
 </project>
